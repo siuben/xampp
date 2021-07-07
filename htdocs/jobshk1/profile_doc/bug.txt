@@ -1,0 +1,3 @@
+page 第一 show唔到所有頁面
+     第二  search時有問題
+有問題 參考index2.php

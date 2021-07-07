@@ -1,0 +1,7 @@
+T 20210103 124216 5ff0446d Connection from 127.0.0.1
+T 20210103 124216 5ff0446d HELO Asus
+T 20210103 124216 5ff0446d MAIL FROM:<siuben123@gmail.com>
+T 20210103 124216 5ff0446d RCPT TO:<siuben123@gmail.com>
+E 20210103 124216 5ff0446d Relay attempt by 127.0.0.1: from <siuben123@gmail.com> to <siuben123@gmail.com>.
+T 20210103 124216 5ff0446d QUIT
+T 20210103 124216 5ff0446d Connection closed with 127.0.0.1, 0 sec. elapsed.

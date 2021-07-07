@@ -1,0 +1,30 @@
+<show all the job>
+
+<?php
+  include('connection/db.php');
+  if (isset($_POST['search'])) {
+    $keyword = $_POST['key'];
+    $category = $_POST['category'];
+    $query = mysqli_query($conn,"SELECT * FROM all_jobs WHERE keyword LIKE '%$keyword%' OR company LIKE '%$keyword%' OR category='$category' ");
+  }else{
+    $sql = mysqli_query($conn,"SELECT * FROM all_jobs LEFT JOIN company ON all_jobs.customer_email=company.admin ORDER BY job_id DESC");
+  }
+?>
+但要刪除if(isset($_POST['search'])) {
+和}else {}
+</show all the job
+
+
+
+
+
+
+<script>
+$(document).ready(function(){
+$("#id_all_jobs").hide();
+$("#search").click(function(e){
+  e.preventDefault();
+  $("#id_all_jobs").show();
+});
+});
+</script>

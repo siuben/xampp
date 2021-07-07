@@ -1,0 +1,1059 @@
+9:38:05  [main] 	Initializing Control Panel
+9:38:05  [main] 	Windows Version:  Home  64-bit
+9:38:05  [main] 	XAMPP Version: 7.4.11
+9:38:05  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+9:38:05  [main] 	You are not running with administrator rights! This will work for
+9:38:05  [main] 	most application stuff but whenever you do something with services
+9:38:05  [main] 	there will be a security dialogue or things will break! So think 
+9:38:05  [main] 	about running this application with administrator rights!
+9:38:05  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:38:05  [main] 	Checking for prerequisites
+9:38:08  [main] 	All prerequisites found
+9:38:08  [main] 	Initializing Modules
+9:38:08  [mysql] 	Problem detected!
+9:38:08  [mysql] 	Port 3306 in use by "Unable to open process"!
+9:38:08  [mysql] 	MySQL WILL NOT start without the configured ports free!
+9:38:08  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+9:38:08  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+9:38:08  [main] 	Starting Check-Timer
+9:38:08  [main] 	Control Panel Ready
+9:38:10  [Apache] 	Attempting to start Apache app...
+9:38:10  [mysql] 	Problem detected!
+9:38:10  [mysql] 	Port 3306 in use by "Unable to open process"!
+9:38:10  [mysql] 	MySQL WILL NOT start without the configured ports free!
+9:38:10  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+9:38:10  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+9:38:10  [mysql] 	Attempting to start MySQL app...
+9:38:11  [Apache] 	Status change detected: running
+9:38:11  [mysql] 	Status change detected: running
+9:38:11  [filezilla] 	Attempting to start FileZilla app...
+9:38:11  [filezilla] 	Status change detected: running
+9:38:11  [mercury] 	Attempting to start Mercury app...
+9:38:12  [Tomcat] 	Attempting to start Tomcat app...
+9:38:12  [mercury] 	Status change detected: running
+9:38:13  [mysql] 	Status change detected: stopped
+9:38:13  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:38:13  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:38:13  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:38:13  [mysql] 	Press the Logs button to view error logs and check
+9:38:13  [mysql] 	the Windows Event Viewer for more clues
+9:38:13  [mysql] 	If you need more help, copy and post this
+9:38:13  [mysql] 	entire log window on the forums
+9:38:24  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+9:38:24  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+9:38:24  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+11:20:35  [main] 	Deinitializing Modules
+11:20:35  [main] 	Deinitializing Control Panel
+
+22:25:29  [main] 	Initializing Control Panel
+22:25:29  [main] 	Windows Version:  Home  64-bit
+22:25:29  [main] 	XAMPP Version: 7.4.11
+22:25:29  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:25:29  [main] 	You are not running with administrator rights! This will work for
+22:25:29  [main] 	most application stuff but whenever you do something with services
+22:25:29  [main] 	there will be a security dialogue or things will break! So think 
+22:25:29  [main] 	about running this application with administrator rights!
+22:25:29  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:25:29  [main] 	Checking for prerequisites
+22:25:32  [main] 	All prerequisites found
+22:25:32  [main] 	Initializing Modules
+22:25:32  [mysql] 	Problem detected!
+22:25:32  [mysql] 	Port 3306 in use by "Unable to open process"!
+22:25:32  [mysql] 	MySQL WILL NOT start without the configured ports free!
+22:25:32  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+22:25:32  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+22:25:32  [main] 	Starting Check-Timer
+22:25:32  [main] 	Control Panel Ready
+22:25:33  [Apache] 	Attempting to start Apache app...
+22:25:34  [Apache] 	Status change detected: running
+22:25:34  [filezilla] 	Attempting to start FileZilla app...
+22:25:35  [filezilla] 	Status change detected: running
+22:25:35  [mysql] 	Problem detected!
+22:25:35  [mysql] 	Port 3306 in use by "Unable to open process"!
+22:25:35  [mysql] 	MySQL WILL NOT start without the configured ports free!
+22:25:35  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+22:25:35  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+22:25:35  [mysql] 	Attempting to start MySQL app...
+22:25:35  [mysql] 	Status change detected: running
+22:25:35  [mercury] 	Attempting to start Mercury app...
+22:25:36  [mercury] 	Status change detected: running
+22:25:37  [Tomcat] 	Attempting to start Tomcat app...
+22:25:38  [mysql] 	Status change detected: stopped
+22:25:38  [mysql] 	Error: MySQL shutdown unexpectedly.
+22:25:38  [mysql] 	This may be due to a blocked port, missing dependencies, 
+22:25:38  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+22:25:38  [mysql] 	Press the Logs button to view error logs and check
+22:25:38  [mysql] 	the Windows Event Viewer for more clues
+22:25:38  [mysql] 	If you need more help, copy and post this
+22:25:38  [mysql] 	entire log window on the forums
+22:25:53  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+22:25:53  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+22:25:53  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+22:26:41  [mysql] 	Attempting to start MySQL app...
+22:26:41  [mysql] 	Status change detected: running
+22:44:16  [Apache] 	Status change detected: stopped
+22:44:16  [Apache] 	Error: Apache shutdown unexpectedly.
+22:44:16  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:44:16  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:44:16  [Apache] 	Press the Logs button to view error logs and check
+22:44:16  [Apache] 	the Windows Event Viewer for more clues
+22:44:16  [Apache] 	If you need more help, copy and post this
+22:44:16  [Apache] 	entire log window on the forums
+22:44:16  [mysql] 	Status change detected: stopped
+22:44:16  [mysql] 	Error: MySQL shutdown unexpectedly.
+22:44:16  [mysql] 	This may be due to a blocked port, missing dependencies, 
+22:44:16  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+22:44:16  [mysql] 	Press the Logs button to view error logs and check
+22:44:16  [mysql] 	the Windows Event Viewer for more clues
+22:44:16  [mysql] 	If you need more help, copy and post this
+22:44:16  [mysql] 	entire log window on the forums
+22:44:17  [filezilla] 	Status change detected: stopped
+22:44:17  [filezilla] 	Error: FileZilla shutdown unexpectedly.
+22:44:17  [filezilla] 	This may be due to a blocked port, missing dependencies, 
+22:44:17  [filezilla] 	improper privileges, a crash, or a shutdown by another method.
+22:44:17  [filezilla] 	Press the Logs button to view error logs and check
+22:44:17  [filezilla] 	the Windows Event Viewer for more clues
+22:44:17  [filezilla] 	If you need more help, copy and post this
+22:44:17  [filezilla] 	entire log window on the forums
+22:44:17  [mercury] 	Status change detected: stopped
+22:44:17  [mercury] 	Error: Mercury shutdown unexpectedly.
+22:44:17  [mercury] 	This may be due to a blocked port, missing dependencies, 
+22:44:17  [mercury] 	improper privileges, a crash, or a shutdown by another method.
+22:44:17  [mercury] 	Press the Logs button to view error logs and check
+22:44:17  [mercury] 	the Windows Event Viewer for more clues
+22:44:17  [mercury] 	If you need more help, copy and post this
+22:44:17  [mercury] 	entire log window on the forums
+22:44:19  [Apache] 	Status change detected: running
+22:44:20  [mysql] 	Status change detected: running
+22:44:20  [filezilla] 	Status change detected: running
+22:44:20  [mercury] 	Status change detected: running
+22:44:56  [main] 	Deinitializing Modules
+22:44:56  [main] 	Deinitializing Control Panel
+
+12:15:08  [main] 	Initializing Control Panel
+12:15:08  [main] 	Windows Version:  Home  64-bit
+12:15:08  [main] 	XAMPP Version: 7.4.11
+12:15:08  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:15:08  [main] 	You are not running with administrator rights! This will work for
+12:15:08  [main] 	most application stuff but whenever you do something with services
+12:15:08  [main] 	there will be a security dialogue or things will break! So think 
+12:15:08  [main] 	about running this application with administrator rights!
+12:15:08  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:15:08  [main] 	Checking for prerequisites
+12:15:11  [main] 	All prerequisites found
+12:15:11  [main] 	Initializing Modules
+12:15:11  [Apache] 	XAMPP Apache is already running on port 80
+12:15:11  [Apache] 	XAMPP Apache is already running on port 443
+12:15:11  [mysql] 	XAMPP MySQL is already running on port 3306
+12:15:11  [filezilla] 	XAMPP FileZilla is already running on port 21
+12:15:11  [filezilla] 	XAMPP FileZilla is already running on port 14147
+12:15:11  [mercury] 	XAMPP Mercury is already running on port 25
+12:15:11  [mercury] 	XAMPP Mercury is already running on port 79
+12:15:11  [mercury] 	XAMPP Mercury is already running on port 105
+12:15:11  [mercury] 	XAMPP Mercury is already running on port 106
+12:15:11  [mercury] 	XAMPP Mercury is already running on port 110
+12:15:11  [mercury] 	XAMPP Mercury is already running on port 143
+12:15:11  [mercury] 	XAMPP Mercury is already running on port 2224
+12:15:11  [main] 	Starting Check-Timer
+12:15:11  [main] 	Control Panel Ready
+13:22:28  [main] 	Deinitializing Modules
+13:22:28  [main] 	Deinitializing Control Panel
+
+22:04:06  [main] 	Initializing Control Panel
+22:04:06  [main] 	Windows Version:  Home  64-bit
+22:04:06  [main] 	XAMPP Version: 7.4.11
+22:04:06  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:04:06  [main] 	You are not running with administrator rights! This will work for
+22:04:06  [main] 	most application stuff but whenever you do something with services
+22:04:06  [main] 	there will be a security dialogue or things will break! So think 
+22:04:06  [main] 	about running this application with administrator rights!
+22:04:06  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:04:06  [main] 	Checking for prerequisites
+22:04:10  [main] 	All prerequisites found
+22:04:10  [main] 	Initializing Modules
+22:04:10  [main] 	Starting Check-Timer
+22:04:10  [main] 	Control Panel Ready
+22:04:12  [Apache] 	Attempting to start Apache app...
+22:04:12  [Apache] 	Status change detected: running
+22:04:12  [mysql] 	Attempting to start MySQL app...
+22:04:12  [filezilla] 	Attempting to start FileZilla app...
+22:04:12  [mysql] 	Status change detected: running
+22:04:12  [filezilla] 	Status change detected: running
+22:04:13  [mercury] 	Attempting to start Mercury app...
+22:04:13  [mercury] 	Status change detected: running
+22:04:13  [Tomcat] 	Attempting to start Tomcat app...
+22:04:27  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+22:04:27  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+22:04:27  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+23:35:02  [main] 	Deinitializing Modules
+23:35:02  [main] 	Deinitializing Control Panel
+
+21:26:49  [main] 	Initializing Control Panel
+21:26:49  [main] 	Windows Version:  Home  64-bit
+21:26:49  [main] 	XAMPP Version: 7.4.11
+21:26:49  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:26:49  [main] 	You are not running with administrator rights! This will work for
+21:26:49  [main] 	most application stuff but whenever you do something with services
+21:26:49  [main] 	there will be a security dialogue or things will break! So think 
+21:26:49  [main] 	about running this application with administrator rights!
+21:26:49  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:26:49  [main] 	Checking for prerequisites
+21:26:53  [main] 	All prerequisites found
+21:26:53  [main] 	Initializing Modules
+21:26:53  [main] 	Starting Check-Timer
+21:26:53  [main] 	Control Panel Ready
+21:26:56  [Apache] 	Attempting to start Apache app...
+21:26:57  [mysql] 	Attempting to start MySQL app...
+21:26:57  [Apache] 	Status change detected: running
+21:26:57  [mysql] 	Status change detected: running
+21:26:57  [filezilla] 	Attempting to start FileZilla app...
+21:26:58  [mercury] 	Attempting to start Mercury app...
+21:26:58  [filezilla] 	Status change detected: running
+21:26:58  [mercury] 	Status change detected: running
+21:26:58  [Tomcat] 	Attempting to start Tomcat app...
+21:27:13  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+21:27:13  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+21:27:13  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+23:26:02  [main] 	Deinitializing Modules
+23:26:03  [main] 	Deinitializing Control Panel
+
+22:26:54  [main] 	Initializing Control Panel
+22:26:54  [main] 	Windows Version:  Home  64-bit
+22:26:54  [main] 	XAMPP Version: 7.4.11
+22:26:54  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:26:54  [main] 	You are not running with administrator rights! This will work for
+22:26:54  [main] 	most application stuff but whenever you do something with services
+22:26:54  [main] 	there will be a security dialogue or things will break! So think 
+22:26:54  [main] 	about running this application with administrator rights!
+22:26:54  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:26:54  [main] 	Checking for prerequisites
+22:26:58  [main] 	All prerequisites found
+22:26:58  [main] 	Initializing Modules
+22:26:58  [main] 	Starting Check-Timer
+22:26:58  [main] 	Control Panel Ready
+22:27:00  [Apache] 	Attempting to start Apache app...
+22:27:00  [Apache] 	Status change detected: running
+22:27:00  [mysql] 	Attempting to start MySQL app...
+22:27:00  [mysql] 	Status change detected: running
+22:27:00  [filezilla] 	Attempting to start FileZilla app...
+22:27:01  [mercury] 	Attempting to start Mercury app...
+22:27:01  [filezilla] 	Status change detected: running
+22:27:01  [mercury] 	Status change detected: running
+0:36:20  [main] 	Deinitializing Modules
+0:36:20  [main] 	Deinitializing Control Panel
+
+22:08:29  [main] 	Initializing Control Panel
+22:08:29  [main] 	Windows Version:  Home  64-bit
+22:08:29  [main] 	XAMPP Version: 7.4.11
+22:08:29  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:08:29  [main] 	You are not running with administrator rights! This will work for
+22:08:29  [main] 	most application stuff but whenever you do something with services
+22:08:29  [main] 	there will be a security dialogue or things will break! So think 
+22:08:29  [main] 	about running this application with administrator rights!
+22:08:29  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:08:29  [main] 	Checking for prerequisites
+22:08:32  [main] 	All prerequisites found
+22:08:32  [main] 	Initializing Modules
+22:08:33  [main] 	Starting Check-Timer
+22:08:33  [main] 	Control Panel Ready
+22:08:34  [Apache] 	Attempting to start Apache app...
+22:08:34  [Apache] 	Status change detected: running
+22:08:34  [mysql] 	Attempting to start MySQL app...
+22:08:35  [mysql] 	Status change detected: running
+22:08:35  [filezilla] 	Attempting to start FileZilla app...
+22:08:35  [filezilla] 	Status change detected: running
+22:08:35  [mercury] 	Attempting to start Mercury app...
+22:08:36  [mercury] 	Status change detected: running
+0:10:08  [main] 	Deinitializing Modules
+0:10:08  [main] 	Deinitializing Control Panel
+
+21:54:20  [main] 	Initializing Control Panel
+21:54:20  [main] 	Windows Version:  Home  64-bit
+21:54:20  [main] 	XAMPP Version: 7.4.11
+21:54:20  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:54:20  [main] 	You are not running with administrator rights! This will work for
+21:54:20  [main] 	most application stuff but whenever you do something with services
+21:54:20  [main] 	there will be a security dialogue or things will break! So think 
+21:54:20  [main] 	about running this application with administrator rights!
+21:54:20  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:54:20  [main] 	Checking for prerequisites
+21:54:23  [main] 	All prerequisites found
+21:54:23  [main] 	Initializing Modules
+21:54:23  [Apache] 	XAMPP Apache is already running on port 80
+21:54:23  [Apache] 	XAMPP Apache is already running on port 443
+21:54:23  [mysql] 	XAMPP MySQL is already running on port 3306
+21:54:23  [filezilla] 	XAMPP FileZilla is already running on port 21
+21:54:23  [filezilla] 	XAMPP FileZilla is already running on port 14147
+21:54:23  [mercury] 	XAMPP Mercury is already running on port 25
+21:54:23  [mercury] 	XAMPP Mercury is already running on port 79
+21:54:23  [mercury] 	XAMPP Mercury is already running on port 105
+21:54:23  [mercury] 	XAMPP Mercury is already running on port 106
+21:54:23  [mercury] 	XAMPP Mercury is already running on port 110
+21:54:23  [mercury] 	XAMPP Mercury is already running on port 143
+21:54:23  [mercury] 	XAMPP Mercury is already running on port 2224
+21:54:23  [main] 	Starting Check-Timer
+21:54:23  [main] 	Control Panel Ready
+23:21:45  [main] 	Deinitializing Modules
+23:21:45  [main] 	Deinitializing Control Panel
+
+22:24:40  [main] 	Initializing Control Panel
+22:24:40  [main] 	Windows Version:  Home  64-bit
+22:24:40  [main] 	XAMPP Version: 7.4.11
+22:24:40  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:24:40  [main] 	You are not running with administrator rights! This will work for
+22:24:40  [main] 	most application stuff but whenever you do something with services
+22:24:40  [main] 	there will be a security dialogue or things will break! So think 
+22:24:40  [main] 	about running this application with administrator rights!
+22:24:40  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:24:40  [main] 	Checking for prerequisites
+22:24:44  [main] 	All prerequisites found
+22:24:44  [main] 	Initializing Modules
+22:24:44  [main] 	Starting Check-Timer
+22:24:44  [main] 	Control Panel Ready
+22:24:58  [Apache] 	Attempting to start Apache app...
+22:24:58  [Apache] 	Status change detected: running
+22:24:58  [mysql] 	Attempting to start MySQL app...
+22:24:58  [mysql] 	Status change detected: running
+22:24:58  [filezilla] 	Attempting to start FileZilla app...
+22:24:59  [filezilla] 	Status change detected: running
+22:24:59  [mercury] 	Attempting to start Mercury app...
+22:24:59  [mercury] 	Status change detected: running
+22:24:59  [Tomcat] 	Attempting to start Tomcat app...
+22:25:17  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+22:25:17  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+22:25:17  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+23:31:07  [main] 	Deinitializing Modules
+23:31:08  [main] 	Deinitializing Control Panel
+
+21:41:46  [main] 	Initializing Control Panel
+21:41:46  [main] 	Windows Version:  Home  64-bit
+21:41:46  [main] 	XAMPP Version: 7.4.11
+21:41:46  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:41:46  [main] 	You are not running with administrator rights! This will work for
+21:41:46  [main] 	most application stuff but whenever you do something with services
+21:41:46  [main] 	there will be a security dialogue or things will break! So think 
+21:41:46  [main] 	about running this application with administrator rights!
+21:41:46  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:41:46  [main] 	Checking for prerequisites
+21:41:46  [main] 	All prerequisites found
+21:41:46  [main] 	Initializing Modules
+21:41:46  [main] 	Starting Check-Timer
+21:41:46  [main] 	Control Panel Ready
+21:41:48  [Apache] 	Attempting to start Apache app...
+21:41:48  [Apache] 	Status change detected: running
+21:41:49  [mysql] 	Attempting to start MySQL app...
+21:41:49  [mysql] 	Status change detected: running
+21:41:49  [filezilla] 	Attempting to start FileZilla app...
+21:41:50  [mercury] 	Attempting to start Mercury app...
+21:41:50  [filezilla] 	Status change detected: running
+21:41:50  [mercury] 	Status change detected: running
+21:41:50  [Tomcat] 	Attempting to start Tomcat app...
+21:42:14  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+21:42:14  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+21:42:14  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+0:33:59  [main] 	Deinitializing Modules
+0:33:59  [main] 	Deinitializing Control Panel
+
+23:24:08  [main] 	Initializing Control Panel
+23:24:08  [main] 	Windows Version:  Home  64-bit
+23:24:09  [main] 	XAMPP Version: 7.4.11
+23:24:09  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+23:24:09  [main] 	You are not running with administrator rights! This will work for
+23:24:09  [main] 	most application stuff but whenever you do something with services
+23:24:09  [main] 	there will be a security dialogue or things will break! So think 
+23:24:09  [main] 	about running this application with administrator rights!
+23:24:09  [main] 	XAMPP Installation Directory: "c:\xampp\"
+23:24:09  [main] 	Checking for prerequisites
+23:24:12  [main] 	All prerequisites found
+23:24:12  [main] 	Initializing Modules
+23:24:12  [main] 	Starting Check-Timer
+23:24:12  [main] 	Control Panel Ready
+23:24:13  [Apache] 	Attempting to start Apache app...
+23:24:14  [Apache] 	Status change detected: running
+23:24:14  [mysql] 	Attempting to start MySQL app...
+23:24:14  [mysql] 	Status change detected: running
+23:24:14  [filezilla] 	Attempting to start FileZilla app...
+23:24:15  [filezilla] 	Status change detected: running
+23:24:15  [mercury] 	Attempting to start Mercury app...
+23:24:16  [Tomcat] 	Attempting to start Tomcat app...
+23:24:16  [mercury] 	Status change detected: running
+23:24:28  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+23:24:28  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+23:24:28  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+2:20:34  [main] 	Deinitializing Modules
+2:20:34  [main] 	Deinitializing Control Panel
+
+10:26:45  [main] 	Initializing Control Panel
+10:26:45  [main] 	Windows Version:  Home  64-bit
+10:26:45  [main] 	XAMPP Version: 7.4.11
+10:26:45  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:26:45  [main] 	You are not running with administrator rights! This will work for
+10:26:45  [main] 	most application stuff but whenever you do something with services
+10:26:45  [main] 	there will be a security dialogue or things will break! So think 
+10:26:45  [main] 	about running this application with administrator rights!
+10:26:45  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:26:45  [main] 	Checking for prerequisites
+10:26:45  [main] 	All prerequisites found
+10:26:45  [main] 	Initializing Modules
+10:26:45  [Apache] 	XAMPP Apache is already running on port 80
+10:26:45  [Apache] 	XAMPP Apache is already running on port 443
+10:26:45  [mysql] 	XAMPP MySQL is already running on port 3306
+10:26:45  [filezilla] 	XAMPP FileZilla is already running on port 21
+10:26:45  [filezilla] 	XAMPP FileZilla is already running on port 14147
+10:26:45  [mercury] 	XAMPP Mercury is already running on port 25
+10:26:45  [mercury] 	XAMPP Mercury is already running on port 79
+10:26:45  [mercury] 	XAMPP Mercury is already running on port 105
+10:26:45  [mercury] 	XAMPP Mercury is already running on port 106
+10:26:45  [mercury] 	XAMPP Mercury is already running on port 110
+10:26:45  [mercury] 	XAMPP Mercury is already running on port 143
+10:26:45  [mercury] 	XAMPP Mercury is already running on port 2224
+10:26:45  [main] 	Starting Check-Timer
+10:26:45  [main] 	Control Panel Ready
+23:58:54  [main] 	Deinitializing Modules
+23:58:54  [main] 	Deinitializing Control Panel
+
+22:31:07  [main] 	Initializing Control Panel
+22:31:07  [main] 	Windows Version:  Home  64-bit
+22:31:07  [main] 	XAMPP Version: 7.4.11
+22:31:07  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:31:07  [main] 	You are not running with administrator rights! This will work for
+22:31:07  [main] 	most application stuff but whenever you do something with services
+22:31:07  [main] 	there will be a security dialogue or things will break! So think 
+22:31:07  [main] 	about running this application with administrator rights!
+22:31:07  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:31:07  [main] 	Checking for prerequisites
+22:31:10  [main] 	All prerequisites found
+22:31:10  [main] 	Initializing Modules
+22:31:10  [Apache] 	XAMPP Apache is already running on port 80
+22:31:10  [Apache] 	XAMPP Apache is already running on port 443
+22:31:10  [mysql] 	XAMPP MySQL is already running on port 3306
+22:31:10  [filezilla] 	XAMPP FileZilla is already running on port 21
+22:31:10  [filezilla] 	XAMPP FileZilla is already running on port 14147
+22:31:10  [mercury] 	XAMPP Mercury is already running on port 25
+22:31:10  [mercury] 	XAMPP Mercury is already running on port 79
+22:31:10  [mercury] 	XAMPP Mercury is already running on port 105
+22:31:10  [mercury] 	XAMPP Mercury is already running on port 106
+22:31:10  [mercury] 	XAMPP Mercury is already running on port 110
+22:31:10  [mercury] 	XAMPP Mercury is already running on port 143
+22:31:10  [mercury] 	XAMPP Mercury is already running on port 2224
+22:31:10  [main] 	Starting Check-Timer
+22:31:10  [main] 	Control Panel Ready
+23:50:59  [main] 	Deinitializing Modules
+23:50:59  [main] 	Deinitializing Control Panel
+
+21:49:39  [main] 	Initializing Control Panel
+21:49:39  [main] 	Windows Version:  Home  64-bit
+21:49:39  [main] 	XAMPP Version: 7.4.11
+21:49:39  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:49:39  [main] 	You are not running with administrator rights! This will work for
+21:49:39  [main] 	most application stuff but whenever you do something with services
+21:49:39  [main] 	there will be a security dialogue or things will break! So think 
+21:49:39  [main] 	about running this application with administrator rights!
+21:49:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:49:39  [main] 	Checking for prerequisites
+21:49:42  [main] 	All prerequisites found
+21:49:42  [main] 	Initializing Modules
+21:49:43  [main] 	Starting Check-Timer
+21:49:43  [main] 	Control Panel Ready
+21:49:46  [Apache] 	Attempting to start Apache app...
+21:49:47  [Apache] 	Status change detected: running
+21:49:47  [mysql] 	Attempting to start MySQL app...
+21:49:48  [mysql] 	Status change detected: running
+21:49:48  [filezilla] 	Attempting to start FileZilla app...
+21:49:48  [filezilla] 	Attempting to start FileZilla app...
+21:49:48  [filezilla] 	Status change detected: running
+21:49:48  [mercury] 	Attempting to start Mercury app...
+21:49:49  [mercury] 	Status change detected: running
+23:55:03  [main] 	Deinitializing Modules
+23:55:03  [main] 	Deinitializing Control Panel
+
+21:56:54  [main] 	Initializing Control Panel
+21:56:54  [main] 	Windows Version:  Home  64-bit
+21:56:54  [main] 	XAMPP Version: 7.4.11
+21:56:54  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:56:54  [main] 	You are not running with administrator rights! This will work for
+21:56:54  [main] 	most application stuff but whenever you do something with services
+21:56:54  [main] 	there will be a security dialogue or things will break! So think 
+21:56:54  [main] 	about running this application with administrator rights!
+21:56:54  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:56:55  [main] 	Checking for prerequisites
+21:56:58  [main] 	All prerequisites found
+21:56:58  [main] 	Initializing Modules
+21:56:58  [main] 	Starting Check-Timer
+21:56:58  [main] 	Control Panel Ready
+21:57:00  [Apache] 	Attempting to start Apache app...
+21:57:00  [Apache] 	Status change detected: running
+21:57:00  [mysql] 	Attempting to start MySQL app...
+21:57:01  [mysql] 	Status change detected: running
+21:57:01  [filezilla] 	Attempting to start FileZilla app...
+21:57:01  [filezilla] 	Status change detected: running
+21:57:01  [mercury] 	Attempting to start Mercury app...
+21:57:02  [mercury] 	Status change detected: running
+0:01:31  [main] 	Deinitializing Modules
+0:01:31  [main] 	Deinitializing Control Panel
+
+20:41:50  [main] 	Initializing Control Panel
+20:41:50  [main] 	Windows Version:  Home  64-bit
+20:41:50  [main] 	XAMPP Version: 7.4.11
+20:41:50  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:41:50  [main] 	You are not running with administrator rights! This will work for
+20:41:50  [main] 	most application stuff but whenever you do something with services
+20:41:50  [main] 	there will be a security dialogue or things will break! So think 
+20:41:50  [main] 	about running this application with administrator rights!
+20:41:50  [main] 	XAMPP Installation Directory: "c:\xampp\"
+20:41:50  [main] 	Checking for prerequisites
+20:41:54  [main] 	All prerequisites found
+20:41:54  [main] 	Initializing Modules
+20:41:54  [mysql] 	Problem detected!
+20:41:54  [mysql] 	Port 3306 in use by "Unable to open process"!
+20:41:54  [mysql] 	MySQL WILL NOT start without the configured ports free!
+20:41:54  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+20:41:54  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+20:41:54  [main] 	Starting Check-Timer
+20:41:54  [main] 	Control Panel Ready
+20:41:56  [Apache] 	Attempting to start Apache app...
+20:41:56  [Apache] 	Status change detected: running
+20:41:57  [mysql] 	Problem detected!
+20:41:57  [mysql] 	Port 3306 in use by "Unable to open process"!
+20:41:57  [mysql] 	MySQL WILL NOT start without the configured ports free!
+20:41:57  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+20:41:57  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+20:41:57  [mysql] 	Attempting to start MySQL app...
+20:41:57  [mysql] 	Status change detected: running
+20:41:57  [filezilla] 	Attempting to start FileZilla app...
+20:41:57  [filezilla] 	Status change detected: running
+20:41:58  [mercury] 	Attempting to start Mercury app...
+20:41:58  [mercury] 	Status change detected: running
+20:41:59  [mysql] 	Status change detected: stopped
+20:41:59  [mysql] 	Error: MySQL shutdown unexpectedly.
+20:41:59  [mysql] 	This may be due to a blocked port, missing dependencies, 
+20:41:59  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+20:41:59  [mysql] 	Press the Logs button to view error logs and check
+20:41:59  [mysql] 	the Windows Event Viewer for more clues
+20:41:59  [mysql] 	If you need more help, copy and post this
+20:41:59  [mysql] 	entire log window on the forums
+20:43:30  [mysql] 	Problem detected!
+20:43:30  [mysql] 	Port 3306 in use by "Unable to open process"!
+20:43:30  [mysql] 	MySQL WILL NOT start without the configured ports free!
+20:43:30  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+20:43:30  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+20:43:30  [mysql] 	Attempting to start MySQL app...
+20:43:31  [mysql] 	Status change detected: running
+20:43:33  [mysql] 	Status change detected: stopped
+20:43:33  [mysql] 	Error: MySQL shutdown unexpectedly.
+20:43:33  [mysql] 	This may be due to a blocked port, missing dependencies, 
+20:43:33  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+20:43:33  [mysql] 	Press the Logs button to view error logs and check
+20:43:33  [mysql] 	the Windows Event Viewer for more clues
+20:43:33  [mysql] 	If you need more help, copy and post this
+20:43:33  [mysql] 	entire log window on the forums
+20:44:17  [mysql] 	Attempting to start MySQL app...
+20:44:17  [mysql] 	Status change detected: running
+23:57:39  [main] 	Deinitializing Modules
+23:57:39  [main] 	Deinitializing Control Panel
+
+23:58:26  [main] 	Initializing Control Panel
+23:58:26  [main] 	Windows Version:  Home  64-bit
+23:58:26  [main] 	XAMPP Version: 7.4.11
+23:58:26  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+23:58:26  [main] 	You are not running with administrator rights! This will work for
+23:58:26  [main] 	most application stuff but whenever you do something with services
+23:58:26  [main] 	there will be a security dialogue or things will break! So think 
+23:58:26  [main] 	about running this application with administrator rights!
+23:58:26  [main] 	XAMPP Installation Directory: "c:\xampp\"
+23:58:26  [main] 	Checking for prerequisites
+23:58:31  [main] 	All prerequisites found
+23:58:31  [main] 	Initializing Modules
+23:58:31  [mysql] 	Problem detected!
+23:58:31  [mysql] 	Port 3306 in use by "Unable to open process"!
+23:58:31  [mysql] 	MySQL WILL NOT start without the configured ports free!
+23:58:31  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+23:58:31  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+23:58:31  [main] 	Starting Check-Timer
+23:58:31  [main] 	Control Panel Ready
+23:58:32  [Apache] 	Attempting to start Apache app...
+23:58:33  [mysql] 	Problem detected!
+23:58:33  [mysql] 	Port 3306 in use by "Unable to open process"!
+23:58:33  [mysql] 	MySQL WILL NOT start without the configured ports free!
+23:58:33  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+23:58:33  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+23:58:33  [mysql] 	Attempting to start MySQL app...
+23:58:33  [Apache] 	Status change detected: running
+23:58:33  [mysql] 	Status change detected: running
+23:58:33  [filezilla] 	Attempting to start FileZilla app...
+23:58:34  [filezilla] 	Status change detected: running
+23:58:34  [mercury] 	Attempting to start Mercury app...
+23:58:34  [mercury] 	Status change detected: running
+23:58:36  [mysql] 	Status change detected: stopped
+23:58:36  [mysql] 	Error: MySQL shutdown unexpectedly.
+23:58:36  [mysql] 	This may be due to a blocked port, missing dependencies, 
+23:58:36  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+23:58:36  [mysql] 	Press the Logs button to view error logs and check
+23:58:36  [mysql] 	the Windows Event Viewer for more clues
+23:58:36  [mysql] 	If you need more help, copy and post this
+23:58:36  [mysql] 	entire log window on the forums
+23:58:41  [mysql] 	Problem detected!
+23:58:41  [mysql] 	Port 3306 in use by "Unable to open process"!
+23:58:41  [mysql] 	MySQL WILL NOT start without the configured ports free!
+23:58:41  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+23:58:41  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+23:58:41  [mysql] 	Attempting to start MySQL app...
+23:58:42  [mysql] 	Status change detected: running
+23:58:43  [mysql] 	Status change detected: stopped
+23:58:43  [mysql] 	Error: MySQL shutdown unexpectedly.
+23:58:43  [mysql] 	This may be due to a blocked port, missing dependencies, 
+23:58:43  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+23:58:43  [mysql] 	Press the Logs button to view error logs and check
+23:58:43  [mysql] 	the Windows Event Viewer for more clues
+23:58:43  [mysql] 	If you need more help, copy and post this
+23:58:43  [mysql] 	entire log window on the forums
+23:59:14  [mysql] 	Problem detected!
+23:59:14  [mysql] 	Port 3306 in use by "Unable to open process"!
+23:59:14  [mysql] 	MySQL WILL NOT start without the configured ports free!
+23:59:14  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+23:59:14  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+23:59:14  [mysql] 	Attempting to start MySQL app...
+23:59:14  [mysql] 	Status change detected: running
+23:59:16  [mysql] 	Status change detected: stopped
+23:59:16  [mysql] 	Error: MySQL shutdown unexpectedly.
+23:59:16  [mysql] 	This may be due to a blocked port, missing dependencies, 
+23:59:16  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+23:59:16  [mysql] 	Press the Logs button to view error logs and check
+23:59:16  [mysql] 	the Windows Event Viewer for more clues
+23:59:16  [mysql] 	If you need more help, copy and post this
+23:59:16  [mysql] 	entire log window on the forums
+23:59:26  [mysql] 	Attempting to start MySQL app...
+23:59:26  [mysql] 	Status change detected: running
+0:06:42  [main] 	Deinitializing Modules
+0:06:42  [main] 	Deinitializing Control Panel
+
+10:57:05  [main] 	Initializing Control Panel
+10:57:05  [main] 	Windows Version:  Home  64-bit
+10:57:05  [main] 	XAMPP Version: 7.4.11
+10:57:05  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:57:05  [main] 	You are not running with administrator rights! This will work for
+10:57:05  [main] 	most application stuff but whenever you do something with services
+10:57:05  [main] 	there will be a security dialogue or things will break! So think 
+10:57:05  [main] 	about running this application with administrator rights!
+10:57:05  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:57:05  [main] 	Checking for prerequisites
+10:57:09  [main] 	All prerequisites found
+10:57:09  [main] 	Initializing Modules
+10:57:09  [main] 	Starting Check-Timer
+10:57:09  [main] 	Control Panel Ready
+10:57:11  [Apache] 	Attempting to start Apache app...
+10:57:11  [mysql] 	Attempting to start MySQL app...
+10:57:11  [Apache] 	Status change detected: running
+10:57:11  [mysql] 	Status change detected: running
+10:57:12  [filezilla] 	Attempting to start FileZilla app...
+10:57:12  [filezilla] 	Status change detected: running
+10:57:12  [mercury] 	Attempting to start Mercury app...
+10:57:12  [mercury] 	Status change detected: running
+0:12:32  [main] 	Deinitializing Modules
+0:12:32  [main] 	Deinitializing Control Panel
+
+21:44:47  [main] 	Initializing Control Panel
+21:44:47  [main] 	Windows Version:  Home  64-bit
+21:44:47  [main] 	XAMPP Version: 7.4.11
+21:44:47  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:44:47  [main] 	You are not running with administrator rights! This will work for
+21:44:47  [main] 	most application stuff but whenever you do something with services
+21:44:47  [main] 	there will be a security dialogue or things will break! So think 
+21:44:47  [main] 	about running this application with administrator rights!
+21:44:47  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:44:47  [main] 	Checking for prerequisites
+21:44:51  [main] 	All prerequisites found
+21:44:51  [main] 	Initializing Modules
+21:44:51  [main] 	Starting Check-Timer
+21:44:51  [main] 	Control Panel Ready
+21:44:53  [Apache] 	Attempting to start Apache app...
+21:44:53  [Apache] 	Status change detected: running
+21:44:54  [mysql] 	Attempting to start MySQL app...
+21:44:54  [mysql] 	Status change detected: running
+21:44:54  [filezilla] 	Attempting to start FileZilla app...
+21:44:54  [filezilla] 	Status change detected: running
+21:44:55  [mercury] 	Attempting to start Mercury app...
+21:44:55  [mercury] 	Status change detected: running
+23:47:28  [main] 	Deinitializing Modules
+23:47:28  [main] 	Deinitializing Control Panel
+
+21:52:03  [main] 	Initializing Control Panel
+21:52:03  [main] 	Windows Version:  Home  64-bit
+21:52:03  [main] 	XAMPP Version: 7.4.11
+21:52:03  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:52:03  [main] 	You are not running with administrator rights! This will work for
+21:52:03  [main] 	most application stuff but whenever you do something with services
+21:52:03  [main] 	there will be a security dialogue or things will break! So think 
+21:52:03  [main] 	about running this application with administrator rights!
+21:52:03  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:52:03  [main] 	Checking for prerequisites
+21:52:03  [main] 	All prerequisites found
+21:52:03  [main] 	Initializing Modules
+21:52:03  [Apache] 	XAMPP Apache is already running on port 80
+21:52:03  [Apache] 	XAMPP Apache is already running on port 443
+21:52:03  [mysql] 	XAMPP MySQL is already running on port 3306
+21:52:03  [filezilla] 	XAMPP FileZilla is already running on port 21
+21:52:03  [filezilla] 	XAMPP FileZilla is already running on port 14147
+21:52:03  [mercury] 	XAMPP Mercury is already running on port 25
+21:52:03  [mercury] 	XAMPP Mercury is already running on port 79
+21:52:03  [mercury] 	XAMPP Mercury is already running on port 105
+21:52:03  [mercury] 	XAMPP Mercury is already running on port 106
+21:52:03  [mercury] 	XAMPP Mercury is already running on port 110
+21:52:03  [mercury] 	XAMPP Mercury is already running on port 143
+21:52:03  [mercury] 	XAMPP Mercury is already running on port 2224
+21:52:03  [main] 	Starting Check-Timer
+21:52:03  [main] 	Control Panel Ready
+23:48:07  [main] 	Deinitializing Modules
+23:48:07  [main] 	Deinitializing Control Panel
+
+22:35:10  [main] 	Initializing Control Panel
+22:35:10  [main] 	Windows Version:  Home  64-bit
+22:35:10  [main] 	XAMPP Version: 7.4.11
+22:35:10  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:35:10  [main] 	You are not running with administrator rights! This will work for
+22:35:10  [main] 	most application stuff but whenever you do something with services
+22:35:10  [main] 	there will be a security dialogue or things will break! So think 
+22:35:10  [main] 	about running this application with administrator rights!
+22:35:10  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:35:10  [main] 	Checking for prerequisites
+22:35:14  [main] 	All prerequisites found
+22:35:14  [main] 	Initializing Modules
+22:35:14  [main] 	Starting Check-Timer
+22:35:14  [main] 	Control Panel Ready
+22:54:42  [Apache] 	Status change detected: running
+22:54:43  [mysql] 	Status change detected: running
+22:54:44  [filezilla] 	Status change detected: running
+22:54:44  [mercury] 	Status change detected: running
+0:00:42  [main] 	Deinitializing Modules
+0:00:42  [main] 	Deinitializing Control Panel
+
+14:34:02  [main] 	Initializing Control Panel
+14:34:02  [main] 	Windows Version:  Home  64-bit
+14:34:02  [main] 	XAMPP Version: 7.4.11
+14:34:02  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:34:02  [main] 	You are not running with administrator rights! This will work for
+14:34:02  [main] 	most application stuff but whenever you do something with services
+14:34:02  [main] 	there will be a security dialogue or things will break! So think 
+14:34:02  [main] 	about running this application with administrator rights!
+14:34:02  [main] 	XAMPP Installation Directory: "c:\xampp\"
+14:34:02  [main] 	Checking for prerequisites
+14:34:02  [main] 	All prerequisites found
+14:34:02  [main] 	Initializing Modules
+14:34:02  [Apache] 	XAMPP Apache is already running on port 80
+14:34:02  [Apache] 	XAMPP Apache is already running on port 443
+14:34:02  [mysql] 	XAMPP MySQL is already running on port 3306
+14:34:03  [filezilla] 	XAMPP FileZilla is already running on port 21
+14:34:03  [filezilla] 	XAMPP FileZilla is already running on port 14147
+14:34:03  [mercury] 	XAMPP Mercury is already running on port 25
+14:34:03  [mercury] 	XAMPP Mercury is already running on port 79
+14:34:03  [mercury] 	XAMPP Mercury is already running on port 105
+14:34:03  [mercury] 	XAMPP Mercury is already running on port 106
+14:34:03  [mercury] 	XAMPP Mercury is already running on port 110
+14:34:03  [mercury] 	XAMPP Mercury is already running on port 143
+14:34:03  [mercury] 	XAMPP Mercury is already running on port 2224
+14:34:03  [main] 	Starting Check-Timer
+14:34:03  [main] 	Control Panel Ready
+0:09:07  [main] 	Deinitializing Modules
+0:09:07  [main] 	Deinitializing Control Panel
+
+11:14:55  [main] 	Initializing Control Panel
+11:14:55  [main] 	Windows Version:  Home  64-bit
+11:14:55  [main] 	XAMPP Version: 7.4.11
+11:14:55  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:14:55  [main] 	You are not running with administrator rights! This will work for
+11:14:55  [main] 	most application stuff but whenever you do something with services
+11:14:55  [main] 	there will be a security dialogue or things will break! So think 
+11:14:55  [main] 	about running this application with administrator rights!
+11:14:55  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:14:55  [main] 	Checking for prerequisites
+11:14:59  [main] 	All prerequisites found
+11:14:59  [main] 	Initializing Modules
+11:14:59  [main] 	Starting Check-Timer
+11:14:59  [main] 	Control Panel Ready
+11:15:01  [Apache] 	Status change detected: running
+11:15:01  [mysql] 	Status change detected: running
+11:15:02  [filezilla] 	Status change detected: running
+11:15:02  [mercury] 	Status change detected: running
+23:55:08  [main] 	Deinitializing Modules
+23:55:08  [main] 	Deinitializing Control Panel
+
+22:28:10  [main] 	Initializing Control Panel
+22:28:10  [main] 	Windows Version:  Home  64-bit
+22:28:10  [main] 	XAMPP Version: 7.4.11
+22:28:10  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:28:10  [main] 	You are not running with administrator rights! This will work for
+22:28:10  [main] 	most application stuff but whenever you do something with services
+22:28:10  [main] 	there will be a security dialogue or things will break! So think 
+22:28:10  [main] 	about running this application with administrator rights!
+22:28:10  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:28:10  [main] 	Checking for prerequisites
+22:28:14  [main] 	All prerequisites found
+22:28:14  [main] 	Initializing Modules
+22:28:14  [main] 	Starting Check-Timer
+22:28:14  [main] 	Control Panel Ready
+23:55:54  [main] 	Deinitializing Modules
+23:55:54  [main] 	Deinitializing Control Panel
+
+22:48:17  [main] 	Initializing Control Panel
+22:48:17  [main] 	Windows Version:  Home  64-bit
+22:48:17  [main] 	XAMPP Version: 7.4.11
+22:48:17  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:48:17  [main] 	You are not running with administrator rights! This will work for
+22:48:17  [main] 	most application stuff but whenever you do something with services
+22:48:17  [main] 	there will be a security dialogue or things will break! So think 
+22:48:17  [main] 	about running this application with administrator rights!
+22:48:17  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:48:17  [main] 	Checking for prerequisites
+22:48:21  [main] 	All prerequisites found
+22:48:21  [main] 	Initializing Modules
+22:48:21  [Apache] 	XAMPP Apache is already running on port 80
+22:48:21  [Apache] 	XAMPP Apache is already running on port 443
+22:48:22  [mysql] 	XAMPP MySQL is already running on port 3306
+22:48:22  [filezilla] 	XAMPP FileZilla is already running on port 21
+22:48:22  [filezilla] 	XAMPP FileZilla is already running on port 14147
+22:48:22  [mercury] 	XAMPP Mercury is already running on port 25
+22:48:22  [mercury] 	XAMPP Mercury is already running on port 79
+22:48:22  [mercury] 	XAMPP Mercury is already running on port 105
+22:48:22  [mercury] 	XAMPP Mercury is already running on port 106
+22:48:22  [mercury] 	XAMPP Mercury is already running on port 110
+22:48:22  [mercury] 	XAMPP Mercury is already running on port 143
+22:48:22  [mercury] 	XAMPP Mercury is already running on port 2224
+22:48:22  [main] 	Starting Check-Timer
+22:48:22  [main] 	Control Panel Ready
+23:56:02  [main] 	Deinitializing Modules
+23:56:02  [main] 	Deinitializing Control Panel
+
+13:08:12  [main] 	Initializing Control Panel
+13:08:12  [main] 	Windows Version:  Home  64-bit
+13:08:12  [main] 	XAMPP Version: 7.4.11
+13:08:12  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+13:08:12  [main] 	You are not running with administrator rights! This will work for
+13:08:12  [main] 	most application stuff but whenever you do something with services
+13:08:12  [main] 	there will be a security dialogue or things will break! So think 
+13:08:12  [main] 	about running this application with administrator rights!
+13:08:12  [main] 	XAMPP Installation Directory: "c:\xampp\"
+13:08:12  [main] 	Checking for prerequisites
+13:08:16  [main] 	All prerequisites found
+13:08:16  [main] 	Initializing Modules
+13:08:16  [main] 	Starting Check-Timer
+13:08:16  [main] 	Control Panel Ready
+13:08:19  [Apache] 	Attempting to start Apache app...
+13:08:19  [Apache] 	Status change detected: running
+13:08:20  [mysql] 	Attempting to start MySQL app...
+13:08:21  [mysql] 	Status change detected: running
+13:08:21  [filezilla] 	Attempting to start FileZilla app...
+13:08:21  [filezilla] 	Status change detected: running
+13:08:22  [mercury] 	Attempting to start Mercury app...
+13:08:22  [mercury] 	Status change detected: running
+23:56:02  [main] 	Deinitializing Modules
+23:56:02  [main] 	Deinitializing Control Panel
+
+10:11:31  [main] 	Initializing Control Panel
+10:11:31  [main] 	Windows Version:  Home  64-bit
+10:11:32  [main] 	XAMPP Version: 7.4.11
+10:11:32  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:11:32  [main] 	You are not running with administrator rights! This will work for
+10:11:32  [main] 	most application stuff but whenever you do something with services
+10:11:32  [main] 	there will be a security dialogue or things will break! So think 
+10:11:32  [main] 	about running this application with administrator rights!
+10:11:32  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:11:32  [main] 	Checking for prerequisites
+10:11:35  [main] 	All prerequisites found
+10:11:35  [main] 	Initializing Modules
+10:11:35  [mysql] 	Problem detected!
+10:11:35  [mysql] 	Port 3306 in use by "Unable to open process"!
+10:11:35  [mysql] 	MySQL WILL NOT start without the configured ports free!
+10:11:35  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+10:11:35  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+10:11:35  [main] 	Starting Check-Timer
+10:11:35  [main] 	Control Panel Ready
+10:11:37  [Apache] 	Attempting to start Apache app...
+10:11:38  [mysql] 	Problem detected!
+10:11:38  [mysql] 	Port 3306 in use by "Unable to open process"!
+10:11:38  [mysql] 	MySQL WILL NOT start without the configured ports free!
+10:11:38  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+10:11:38  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+10:11:38  [mysql] 	Attempting to start MySQL app...
+10:11:38  [Apache] 	Status change detected: running
+10:11:38  [mysql] 	Status change detected: running
+10:11:38  [filezilla] 	Attempting to start FileZilla app...
+10:11:38  [filezilla] 	Status change detected: running
+10:11:39  [mercury] 	Attempting to start Mercury app...
+10:11:39  [mercury] 	Status change detected: running
+10:11:41  [mysql] 	Status change detected: stopped
+10:11:41  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:11:41  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:11:41  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:11:41  [mysql] 	Press the Logs button to view error logs and check
+10:11:41  [mysql] 	the Windows Event Viewer for more clues
+10:11:41  [mysql] 	If you need more help, copy and post this
+10:11:41  [mysql] 	entire log window on the forums
+10:12:28  [mysql] 	Status change detected: running
+23:47:08  [main] 	Deinitializing Modules
+23:47:08  [main] 	Deinitializing Control Panel
+
+22:11:08  [main] 	Initializing Control Panel
+22:11:08  [main] 	Windows Version:  Home  64-bit
+22:11:08  [main] 	XAMPP Version: 7.4.11
+22:11:08  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:11:08  [main] 	You are not running with administrator rights! This will work for
+22:11:08  [main] 	most application stuff but whenever you do something with services
+22:11:08  [main] 	there will be a security dialogue or things will break! So think 
+22:11:08  [main] 	about running this application with administrator rights!
+22:11:08  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:11:08  [main] 	Checking for prerequisites
+22:11:12  [main] 	All prerequisites found
+22:11:12  [main] 	Initializing Modules
+22:11:12  [main] 	Starting Check-Timer
+22:11:12  [main] 	Control Panel Ready
+22:11:16  [Apache] 	Attempting to start Apache app...
+22:11:16  [Apache] 	Status change detected: running
+22:11:16  [mysql] 	Attempting to start MySQL app...
+22:11:16  [mysql] 	Status change detected: running
+23:46:49  [main] 	Deinitializing Modules
+23:46:49  [main] 	Deinitializing Control Panel
+
+22:00:27  [main] 	Initializing Control Panel
+22:00:27  [main] 	Windows Version:  Home  64-bit
+22:00:27  [main] 	XAMPP Version: 7.4.11
+22:00:27  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:00:27  [main] 	You are not running with administrator rights! This will work for
+22:00:27  [main] 	most application stuff but whenever you do something with services
+22:00:27  [main] 	there will be a security dialogue or things will break! So think 
+22:00:27  [main] 	about running this application with administrator rights!
+22:00:27  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:00:27  [main] 	Checking for prerequisites
+22:00:30  [main] 	All prerequisites found
+22:00:30  [main] 	Initializing Modules
+22:00:30  [mysql] 	Problem detected!
+22:00:30  [mysql] 	Port 3306 in use by "Unable to open process"!
+22:00:30  [mysql] 	MySQL WILL NOT start without the configured ports free!
+22:00:30  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+22:00:30  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+22:00:30  [main] 	Starting Check-Timer
+22:00:30  [main] 	Control Panel Ready
+22:00:34  [Apache] 	Attempting to start Apache app...
+22:00:34  [Apache] 	Status change detected: running
+22:00:34  [mysql] 	Problem detected!
+22:00:34  [mysql] 	Port 3306 in use by "Unable to open process"!
+22:00:34  [mysql] 	MySQL WILL NOT start without the configured ports free!
+22:00:34  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+22:00:34  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+22:00:34  [mysql] 	Attempting to start MySQL app...
+22:00:35  [mysql] 	Status change detected: running
+22:00:37  [mysql] 	Status change detected: stopped
+22:00:37  [mysql] 	Error: MySQL shutdown unexpectedly.
+22:00:37  [mysql] 	This may be due to a blocked port, missing dependencies, 
+22:00:37  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+22:00:37  [mysql] 	Press the Logs button to view error logs and check
+22:00:37  [mysql] 	the Windows Event Viewer for more clues
+22:00:37  [mysql] 	If you need more help, copy and post this
+22:00:37  [mysql] 	entire log window on the forums
+0:08:04  [main] 	Deinitializing Modules
+0:08:04  [main] 	Deinitializing Control Panel
+
+11:04:22  [main] 	Initializing Control Panel
+11:04:22  [main] 	Windows Version:  Home  64-bit
+11:04:22  [main] 	XAMPP Version: 7.4.11
+11:04:22  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:04:22  [main] 	You are not running with administrator rights! This will work for
+11:04:22  [main] 	most application stuff but whenever you do something with services
+11:04:22  [main] 	there will be a security dialogue or things will break! So think 
+11:04:22  [main] 	about running this application with administrator rights!
+11:04:22  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:04:22  [main] 	Checking for prerequisites
+11:04:24  [main] 	All prerequisites found
+11:04:24  [main] 	Initializing Modules
+11:04:24  [mysql] 	Problem detected!
+11:04:24  [mysql] 	Port 3306 in use by "Unable to open process"!
+11:04:24  [mysql] 	MySQL WILL NOT start without the configured ports free!
+11:04:24  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+11:04:24  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+11:04:24  [main] 	Starting Check-Timer
+11:04:24  [main] 	Control Panel Ready
+1:34:07  [main] 	Deinitializing Modules
+1:34:07  [main] 	Deinitializing Control Panel
+
+12:35:12  [main] 	Initializing Control Panel
+12:35:12  [main] 	Windows Version:  Home  64-bit
+12:35:12  [main] 	XAMPP Version: 7.4.11
+12:35:12  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:35:12  [main] 	You are not running with administrator rights! This will work for
+12:35:12  [main] 	most application stuff but whenever you do something with services
+12:35:12  [main] 	there will be a security dialogue or things will break! So think 
+12:35:12  [main] 	about running this application with administrator rights!
+12:35:12  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:35:12  [main] 	Checking for prerequisites
+12:35:13  [main] 	All prerequisites found
+12:35:13  [main] 	Initializing Modules
+12:35:13  [mysql] 	Problem detected!
+12:35:13  [mysql] 	Port 3306 in use by "Unable to open process"!
+12:35:13  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:35:13  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:35:13  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:35:13  [main] 	Starting Check-Timer
+12:35:13  [main] 	Control Panel Ready
+12:35:15  [Apache] 	Attempting to start Apache app...
+12:35:15  [Apache] 	Status change detected: running
+12:35:16  [mysql] 	Problem detected!
+12:35:16  [mysql] 	Port 3306 in use by "Unable to open process"!
+12:35:16  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:35:16  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:35:16  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:35:16  [mysql] 	Attempting to start MySQL app...
+12:35:16  [mysql] 	Status change detected: running
+12:35:16  [filezilla] 	Attempting to start FileZilla app...
+12:35:16  [filezilla] 	Status change detected: running
+12:35:17  [mercury] 	Attempting to start Mercury app...
+12:35:17  [mercury] 	Status change detected: running
+12:35:17  [Tomcat] 	Attempting to start Tomcat app...
+12:35:19  [mysql] 	Status change detected: stopped
+12:35:19  [mysql] 	Error: MySQL shutdown unexpectedly.
+12:35:19  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12:35:19  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12:35:19  [mysql] 	Press the Logs button to view error logs and check
+12:35:19  [mysql] 	the Windows Event Viewer for more clues
+12:35:19  [mysql] 	If you need more help, copy and post this
+12:35:19  [mysql] 	entire log window on the forums
+12:35:31  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+12:35:31  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+12:35:31  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+12:35:50  [mysql] 	Attempting to start MySQL app...
+12:35:50  [mysql] 	Status change detected: running
+16:22:13  [Apache] 	Attempting to stop Apache (PID: 10068)
+16:22:13  [Apache] 	Attempting to stop Apache (PID: 11436)
+16:22:13  [Apache] 	Status change detected: stopped
+16:22:13  [mysql] 	Attempting to stop MySQL app...
+16:22:14  [mysql] 	Status change detected: stopped
+16:22:14  [filezilla] 	Attempting to stop FileZilla app...
+16:22:14  [mercury] 	Attempting to stop Mercury (PID: 9264)
+16:22:14  [filezilla] 	Status change detected: stopped
+16:22:14  [mercury] 	Status change detected: stopped
+0:05:54  [main] 	Deinitializing Modules
+0:05:54  [main] 	Deinitializing Control Panel
+
+23:51:04  [main] 	Initializing Control Panel
+23:51:04  [main] 	Windows Version:  Home  64-bit
+23:51:04  [main] 	XAMPP Version: 7.4.11
+23:51:04  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+23:51:04  [main] 	You are not running with administrator rights! This will work for
+23:51:04  [main] 	most application stuff but whenever you do something with services
+23:51:04  [main] 	there will be a security dialogue or things will break! So think 
+23:51:04  [main] 	about running this application with administrator rights!
+23:51:04  [main] 	XAMPP Installation Directory: "c:\xampp\"
+23:51:04  [main] 	Checking for prerequisites
+23:51:06  [main] 	All prerequisites found
+23:51:06  [main] 	Initializing Modules
+23:51:06  [main] 	Starting Check-Timer
+23:51:06  [main] 	Control Panel Ready
+23:51:09  [Apache] 	Attempting to start Apache app...
+23:51:09  [Apache] 	Status change detected: running
+23:51:10  [mysql] 	Attempting to start MySQL app...
+23:51:10  [mysql] 	Status change detected: running
+23:51:10  [filezilla] 	Attempting to start FileZilla app...
+23:51:11  [filezilla] 	Status change detected: running
+23:51:11  [mercury] 	Attempting to start Mercury app...
+23:51:11  [mercury] 	Status change detected: running
+0:16:27  [main] 	Deinitializing Modules
+0:16:27  [main] 	Deinitializing Control Panel
+
